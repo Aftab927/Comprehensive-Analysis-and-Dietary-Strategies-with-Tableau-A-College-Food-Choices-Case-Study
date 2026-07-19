@@ -6,13 +6,13 @@ Comprehensive Data Analytics project visualizing college food choices and dietar
 This project performs a comprehensive behavioral analysis of college student food choices. It follows a 7-phase structural lifecycle from ideation to final deployment, utilizing data cleaning, KPI definition, and Tableau visualization.
 
 ## Project Lifecycle (7-Folder Structure)
-- **Folder 1:** Project Ideation & Scoping
-- **Folder 2:** Requirement Analysis & System Bounds
-- **Folder 3:** System Design & Schema Mapping
-- **Folder 4:** Data Development & Cleaning
-- **Folder 5:** Testing & Quality Assurance
-- **Folder 6:** Deployment
-- **Folder 7:** Final Handoff & Conclusion
+- **Folder 1:** Ideation Phase 
+- **Folder 2:** Requirement Analysis
+- **Folder 3:** Project Design Phase 
+- **Folder 4:** Project Planning Phase 
+- **Folder 5:** Project Development Phase 
+- **Folder 6:** Project Documentation 
+- **Folder 7:** Project Demonstration 
 
 ## Key Skills Demonstrated
 - Data Preparation & Schema Design
